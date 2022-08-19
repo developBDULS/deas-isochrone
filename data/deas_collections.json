@@ -1,0 +1,271 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "dea-1",
+                "Direccion": "Avenida Raúl Bitrán Nachary 1305",
+                "Campus": "Campus Andres Bello",
+                "Dependencia": "Rectoría",
+                "Sector": "Primer piso, sector entrada.",
+                "longitude": -71.242192331795906,
+                "latitude": -29.914617092966601
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.242192,
+                    -29.914617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "dea-2",
+                "Direccion": "Avenida Raúl Bitrán Nachary 1305",
+                "Campus": "Campus Andres Bello",
+                "Dependencia": "Jardín infantil ULS",
+                "Sector": "Pasillo entrada",
+                "longitude": -71.240754102362999,
+                "latitude": -29.913426649998598
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.240754,
+                    -29.913427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "dea-3",
+                "Direccion": "Avenida Raúl Bitrán Nachary 1305",
+                "Campus": "Campus Andres Bello",
+                "Dependencia": "Deporte",
+                "Sector": "Entrada, frente oficina secretraria",
+                "longitude": -71.241292735909695,
+                "latitude": -29.9147335017758
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.241293,
+                    -29.914734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "dea-4",
+                "Direccion": "Avenida Juan Cisternas 1200",
+                "Campus": "Campus Andres Bello",
+                "Dependencia": "Edificio Enfermería y Psicología",
+                "Sector": "Primer piso, oficina secretaria área enferemeria",
+                "longitude": -71.243694370277197,
+                "latitude": -29.913273279159899
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.243694,
+                    -29.913273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "dea-5",
+                "Direccion": "Avenida Juan Cisternas 1200",
+                "Campus": "Campus Andres Bello",
+                "Dependencia": "Facultad de Ciencias",
+                "Sector": "Segundo piso, frente secretaria decanatura",
+                "longitude": -71.243517344486705,
+                "latitude": -29.911955058680199
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.243517,
+                    -29.911955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "dea-6",
+                "Direccion": "Avenida Juan Cisternas 1015",
+                "Campus": "Campus Andres Bello",
+                "Dependencia": "Clínica Asistencial Docente Odontología",
+                "Sector": "Segundo piso, pasillo área clinica",
+                "longitude": -71.243131298145201,
+                "latitude": -29.9091681000424
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.243131,
+                    -29.909168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "dea-7",
+                "Direccion": "Avenida Juan Cisternas 1067",
+                "Campus": "Campus Isabel Bongard",
+                "Dependencia": "Casino Central",
+                "Sector": "Primer piso, sector centro",
+                "longitude": -71.243959393147307,
+                "latitude": -29.910926187264401
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.243959,
+                    -29.910926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "dea-8",
+                "Direccion": "Amunátegui 851",
+                "Campus": "Campus Isabel Bongard",
+                "Dependencia": "Portería del Campus",
+                "Sector": "Portería del Campus Isabel Bongard",
+                "longitude": -71.246067721543994,
+                "latitude": -29.910258162978
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.246068,
+                    -29.910258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "dea-9",
+                "Direccion": "Benavente 980",
+                "Campus": "Campus Ignacio Domeyko",
+                "Dependencia": "Portería del Campus",
+                "Sector": "Portería Campus Ignacio Domeyko",
+                "longitude": -71.246740729398596,
+                "latitude": -29.9088820455373
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.246741,
+                    -29.908882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "dea-10",
+                "Direccion": "Anfion Muñoz 875",
+                "Campus": "Campus Ignacio Domeyko",
+                "Dependencia": "Biblioteca Central Irma Salas",
+                "Sector": "Primer piso, pasilllo área central, subida escalera",
+                "longitude": -71.245857293816101,
+                "latitude": -29.9095161954818
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.245857,
+                    -29.909516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "dea-11",
+                "Direccion": "Amunátegui S/N",
+                "Campus": "Campus Enrique Molina Garmendia",
+                "Dependencia": "Portería Campus Enrique Molina Garmendia",
+                "Sector": "Portería del Campus",
+                "longitude": -71.256873228224194,
+                "latitude": -29.909615149845099
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.256873,
+                    -29.909615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "dea-12",
+                "Direccion": "Larraín Alcalde S/N",
+                "Campus": "Departamento de música",
+                "Dependencia": "Portería Departamento de Música",
+                "Sector": "Portería Departamento de Música",
+                "longitude": -71.253834728506106,
+                "latitude": -29.926213410948598
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.253835,
+                    -29.926213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "dea-13",
+                "Direccion": "Larraín Alcalde 2450",
+                "Campus": "Jardin Infantil Los Papayitos",
+                "Dependencia": "Jardin Infantil Los Papayitos",
+                "Sector": "Sala amamantamiento",
+                "longitude": -71.252629359545793,
+                "latitude": -29.923211669402701
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.252629,
+                    -29.923212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "dea-14",
+                "Direccion": "Avenida La Paz 1108",
+                "Campus": "Campus Limarí",
+                "Dependencia": "Portería Campus Limarí",
+                "Sector": "Portería del Campus",
+                "longitude": -71.193496500989596,
+                "latitude": -30.584021895197999
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.193497,
+                    -30.584022
+                ]
+            }
+        }
+    ]
+}
