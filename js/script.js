@@ -246,7 +246,7 @@ map.on('mouseleave', 'nearest', (e) => {
 
 /** ICONS & INFO*/
 const img = document.createElement('img');
-img.src = 'media/LOGO GEORREFERENCIACIÓN BCO - 145X100-01-01.png';
+img.src = 'media/BIG DATA GEOREFERENCIACION 2-02.png';
 const info = document.getElementById('bduls-container');
 info.appendChild(img);
 
