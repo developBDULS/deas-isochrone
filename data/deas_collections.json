@@ -10,7 +10,8 @@
                 "Dependencia": "Rectoría",
                 "Sector": "Primer piso, sector entrada.",
                 "longitude": -71.242192331795906,
-                "latitude": -29.914617092966601
+                "latitude": -29.914617092966601,
+                "Institucion": "Universidad de La Serena"
             },
             "geometry": {
                 "type": "Point",
@@ -29,7 +30,8 @@
                 "Dependencia": "Jardín infantil ULS",
                 "Sector": "Pasillo entrada",
                 "longitude": -71.240754102362999,
-                "latitude": -29.913426649998598
+                "latitude": -29.913426649998598,
+                "Institucion": "Universidad de La Serena"
             },
             "geometry": {
                 "type": "Point",
@@ -48,7 +50,8 @@
                 "Dependencia": "Deporte",
                 "Sector": "Entrada, frente oficina secretraria",
                 "longitude": -71.241292735909695,
-                "latitude": -29.9147335017758
+                "latitude": -29.9147335017758,
+                "Institucion": "Universidad de La Serena"
             },
             "geometry": {
                 "type": "Point",
@@ -67,7 +70,8 @@
                 "Dependencia": "Edificio Enfermería y Psicología",
                 "Sector": "Primer piso, oficina secretaria área enferemeria",
                 "longitude": -71.243694370277197,
-                "latitude": -29.913273279159899
+                "latitude": -29.913273279159899,
+                "Institucion": "Universidad de La Serena"
             },
             "geometry": {
                 "type": "Point",
@@ -86,7 +90,8 @@
                 "Dependencia": "Facultad de Ciencias",
                 "Sector": "Segundo piso, frente secretaria decanatura",
                 "longitude": -71.243517344486705,
-                "latitude": -29.911955058680199
+                "latitude": -29.911955058680199,
+                "Institucion": "Universidad de La Serena"
             },
             "geometry": {
                 "type": "Point",
@@ -105,7 +110,8 @@
                 "Dependencia": "Clínica Asistencial Docente Odontología",
                 "Sector": "Segundo piso, pasillo área clinica",
                 "longitude": -71.243131298145201,
-                "latitude": -29.9091681000424
+                "latitude": -29.9091681000424,
+                "Institucion": "Universidad de La Serena"
             },
             "geometry": {
                 "type": "Point",
@@ -124,7 +130,8 @@
                 "Dependencia": "Casino Central",
                 "Sector": "Primer piso, sector centro",
                 "longitude": -71.243959393147307,
-                "latitude": -29.910926187264401
+                "latitude": -29.910926187264401,
+                "Institucion": "Universidad de La Serena"
             },
             "geometry": {
                 "type": "Point",
@@ -143,7 +150,8 @@
                 "Dependencia": "Portería del Campus",
                 "Sector": "Portería del Campus Isabel Bongard",
                 "longitude": -71.246067721543994,
-                "latitude": -29.910258162978
+                "latitude": -29.910258162978,
+                "Institucion": "Universidad de La Serena"
             },
             "geometry": {
                 "type": "Point",
@@ -162,7 +170,8 @@
                 "Dependencia": "Portería del Campus",
                 "Sector": "Portería Campus Ignacio Domeyko",
                 "longitude": -71.246740729398596,
-                "latitude": -29.9088820455373
+                "latitude": -29.9088820455373,
+                "Institucion": "Universidad de La Serena"
             },
             "geometry": {
                 "type": "Point",
@@ -181,7 +190,8 @@
                 "Dependencia": "Biblioteca Central Irma Salas",
                 "Sector": "Primer piso, pasilllo área central, subida escalera",
                 "longitude": -71.245857293816101,
-                "latitude": -29.9095161954818
+                "latitude": -29.9095161954818,
+                "Institucion": "Universidad de La Serena"
             },
             "geometry": {
                 "type": "Point",
@@ -200,7 +210,8 @@
                 "Dependencia": "Portería Campus Enrique Molina Garmendia",
                 "Sector": "Portería del Campus",
                 "longitude": -71.256873228224194,
-                "latitude": -29.909615149845099
+                "latitude": -29.909615149845099,
+                "Institucion": "Universidad de La Serena"
             },
             "geometry": {
                 "type": "Point",
@@ -219,7 +230,8 @@
                 "Dependencia": "Portería Departamento de Música",
                 "Sector": "Portería Departamento de Música",
                 "longitude": -71.253834728506106,
-                "latitude": -29.926213410948598
+                "latitude": -29.926213410948598,
+                "Institucion": "Universidad de La Serena"
             },
             "geometry": {
                 "type": "Point",
@@ -238,7 +250,8 @@
                 "Dependencia": "Jardin Infantil Los Papayitos",
                 "Sector": "Sala amamantamiento",
                 "longitude": -71.252629359545793,
-                "latitude": -29.923211669402701
+                "latitude": -29.923211669402701,
+                "Institucion": "Universidad de La Serena"
             },
             "geometry": {
                 "type": "Point",
@@ -257,7 +270,8 @@
                 "Dependencia": "Portería Campus Limarí",
                 "Sector": "Portería del Campus",
                 "longitude": -71.193496500989596,
-                "latitude": -30.584021895197999
+                "latitude": -30.584021895197999,
+                "Institucion": "Universidad de La Serena"
             },
             "geometry": {
                 "type": "Point",

@@ -99,7 +99,8 @@ map.once('idle', () => {
                         "Dependencia": "Portería del Campus",
                         "Sector": "Portería Campus Ignacio Domeyko",
                         "longitude": -71.246740729398596,
-                        "latitude": -29.9088820455373
+                        "latitude": -29.9088820455373,
+                        "Institucion": "Universidad de La Serena"
                     },
                     'geometry':{
                         "type": "Point",
@@ -203,14 +204,20 @@ map.on('mouseenter', 'points', (e) => {
     const direccion = e.features[0].properties.Direccion;
     const campus = e.features[0].properties.Campus;
     const dependencia = e.features[0].properties.Dependencia;
-    const sector = e.features[0].properties.Sector;  
+    const sector = e.features[0].properties.Sector;
+    const id_dea = e.features[0].properties.id;
+    const institucion = e.features[0].properties.Institucion;
+    const dummy = '-'  
     while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
     coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;    }
 
-    table_info = "<table id='customers'><tr><th>Dirección</th><td>"+direccion+"</td></tr>"+
-        "<tr><th>Campus</th><td>"+campus+"</td></tr>"+
-        "<tr><th>Dependencia</th><td>"+dependencia+"</td></tr>"+
-        "<tr><th>Sector</th><td>"+sector+"</td></tr>"+
+    table_info = "<table id='customers'><tr><th>Nombre</th><td>"+id_dea+"</td></tr>"+
+        "<tr><th>Descripción</th><td>"+sector+"</td></tr>"+
+        "<tr><th>Foto</th><td><img src='media/desfibrilador-emergente-1.png'></img></td></tr>"+
+        "<tr><th>Institución / Organización</th><td>"+institucion+"</td></tr>"+
+        "<tr><th>Dirección</th><td>"+direccion+"</td></tr>"+
+        "<tr><th>Encargado</th><td>"+dependencia+"</td></tr>"+
+        "<tr><th>Fono</th><td>"+dummy+"</td></tr>"+
         "</table>";
     popup.setLngLat(coordinates).setHTML(table_info).addTo(map);
 });
@@ -227,14 +234,20 @@ map.on('mouseenter', 'nearest', (e) => {
     const direccion = e.features[0].properties.Direccion;
     const campus = e.features[0].properties.Campus;
     const dependencia = e.features[0].properties.Dependencia;
-    const sector = e.features[0].properties.Sector;  
+    const sector = e.features[0].properties.Sector;
+    const id_dea = e.features[0].properties.id;
+    const institucion = e.features[0].properties.Institucion;
+    const dummy = '-';  
     while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
     coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;    }
 
-    table_info = "<table id='customers'><tr><th>Dirección</th><td>"+direccion+"</td></tr>"+
-        "<tr><th>Campus</th><td>"+campus+"</td></tr>"+
-        "<tr><th>Dependencia</th><td>"+dependencia+"</td></tr>"+
-        "<tr><th>Sector</th><td>"+sector+"</td></tr>"+
+    table_info = "<table id='customers'><tr><th>Nombre</th><td>"+id_dea+"</td></tr>"+
+        "<tr><th>Descripción</th><td>"+sector+"</td></tr>"+
+        "<tr><th>Foto</th><td><img src='media/desfibrilador-emergente-1.png'></img></td></tr>"+
+        "<tr><th>Institución / Organización</th><td>"+institucion+"</td></tr>"+
+        "<tr><th>Dirección</th><td>"+direccion+"</td></tr>"+
+        "<tr><th>Encargado</th><td>"+dependencia+"</td></tr>"+
+        "<tr><th>Fono</th><td>"+dummy+"</td></tr>"+
         "</table>";
     popup.setLngLat(coordinates).setHTML(table_info).addTo(map);
 });
